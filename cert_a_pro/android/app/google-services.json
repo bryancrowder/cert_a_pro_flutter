@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825147474551",
+    "firebase_url": "https://cert-a-pro-default-rtdb.firebaseio.com",
+    "project_id": "cert-a-pro",
+    "storage_bucket": "cert-a-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825147474551:android:e40ecb9628e0f29c0efc72",
+        "android_client_info": {
+          "package_name": "com.example.cert_a_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825147474551-i910gd73pk1pooino688er6pedf6i3f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JUh-o-rfzxpli7mIKLxkcIB16zWS9Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825147474551-i910gd73pk1pooino688er6pedf6i3f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

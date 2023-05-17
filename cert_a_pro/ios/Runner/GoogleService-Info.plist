@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>825147474551-89bgf8jh9rv96aktttjgv2nskr6lfaac.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.825147474551-89bgf8jh9rv96aktttjgv2nskr6lfaac</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>825147474551-hs5euiatd535bikbd1k2vmfchh2qvrr5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkMzwZqSN7um6SdpgFxb48vIsSs56ZQoA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825147474551</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.certAPro</string>
+	<key>PROJECT_ID</key>
+	<string>cert-a-pro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cert-a-pro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825147474551:ios:90b6921d32da7d310efc72</string>
+	<key>DATABASE_URL</key>
+	<string>https://cert-a-pro-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
